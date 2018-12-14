@@ -138,3 +138,5 @@ osTicket is supported by several magical open source projects including:
   * [php-gettext](https://launchpad.net/php-gettext/)
   * [phpseclib](http://phpseclib.sourceforge.net/)
   * [Spyc](http://github.com/mustangostang/spyc)
+  
+PS: Edited to make it work with php 7.2
